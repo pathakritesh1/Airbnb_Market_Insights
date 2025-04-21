@@ -1,11 +1,11 @@
-# 📊 Airbnb Market Insights – New York Dashboard
+#  Airbnb Market Insights – New York Dashboard
 
-## 🧠 Project Overview
+##  Project Overview
 This project analyzes an Airbnb-like dataset to uncover key market insights and create a professional Tableau dashboard titled **"Airbnb Market Insights – New York"**. The workflow includes data cleaning, exploratory data analysis (EDA), and the creation of interactive Tableau visualizations to help users make informed business decisions.
 
 ---
 
-## 🎯 Key Objectives
+##  Key Objectives
 - Understand pricing trends across room types and neighborhood groups.
 - Identify top-performing hosts and their earnings.
 - Analyze guest review patterns and cancellation policies.
@@ -14,7 +14,7 @@ This project analyzes an Airbnb-like dataset to uncover key market insights and 
 
 ---
 
-## 📁 Dataset Information
+##  Dataset Information
 The dataset contains the following key features:
 
 | Category         | Description                                                   |
@@ -28,7 +28,7 @@ The dataset contains the following key features:
 
 ---
 
-## 📊 Tableau Sheets Created
+##  Tableau Sheets Created
 
 | Sheet Title                                           | Description                                          |
 |-------------------------------------------------------|------------------------------------------------------|
@@ -43,7 +43,7 @@ The dataset contains the following key features:
 
 ---
 
-## 🔢 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 - **Total Listings**: Number of properties analyzed.
 - **Total Earnings**: Combined income from all listings.
@@ -53,19 +53,19 @@ The dataset contains the following key features:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 | Category                            | Tools                       |
 |-------------------------------------|-----------------------------|
 | **Data Cleaning**                   | Microsoft Excel             |
-| **Exploratory Data Analysis (EDA)** | Python (optional), Tableau  |
+| **Exploratory Data Analysis (EDA)** | Python, Tableau             |
 | **Visualization & Dashboarding**    | Tableau                     |
 | **Optional Libraries (for EDA)**    | Pandas, Seaborn, Matplotlib |
 
 
 ---
 
-## 🧩 Dashboard Layout Guide
+##  Dashboard Layout Guide
 
 ### Header Section
 - Bold title & brief summary of the dashboard's purpose.
