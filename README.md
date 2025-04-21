@@ -61,28 +61,3 @@ The dataset contains the following key features:
 | **Exploratory Data Analysis (EDA)** | Python, Tableau             |
 | **Visualization & Dashboarding**    | Tableau                     |
 | **Optional Libraries (for EDA)**    | Pandas, Seaborn, Matplotlib |
-
-
----
-
-##  Dashboard Layout Guide
-
-### Header Section
-- Bold title & brief summary of the dashboard's purpose.
-
-### KPIs Section
-- Display key metrics at the top for instant business insights.
-
-### Visualizations Section
-- Group charts logically (e.g., price trends, host analysis, map).
-
-### Styling Tips
-- Use a uniform color palette, consistent labels, and clean fonts.
-
-### Interactive Filters
-- Add filters by neighborhood, room type, or date range to explore dynamically.
-
-### Footer Section
-- Add credits, data sources, and any limitations or assumptions.
-
-
