@@ -38,7 +38,6 @@ The dataset contains the following key features:
 | **Review Activity Over Time**                         | Track seasonal trends in guest reviews.              |
 | **Top 10 Hosts' Earnings**                            | Showcase the highest earning hosts.                  |
 | **Average Price by Room Type and Neighborhood Group** | Deep dive into combined price trends.                |
-| **Guest Reviews by Cancellation Policy**              | Explore how policies affect guest sentiment.         |
 | **Measures Name vs Room Type**                        | Present summarized metrics by room type.             |
 
 ---
